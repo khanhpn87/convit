@@ -1,1 +1,1 @@
-This is test file again
+This is merged file
